@@ -2,13 +2,13 @@
  "cells": [
   {
    "cell_type": "markdown",
-   "id": "0a3b1dec",
+   "id": "53b58302",
    "metadata": {
     "papermill": {
-     "duration": 0.00556,
-     "end_time": "2025-11-14T05:06:52.276338",
+     "duration": 0.005788,
+     "end_time": "2025-11-14T05:16:30.275748",
      "exception": false,
-     "start_time": "2025-11-14T05:06:52.270778",
+     "start_time": "2025-11-14T05:16:30.269960",
      "status": "completed"
     },
     "tags": []
@@ -20,19 +20,19 @@
   {
    "cell_type": "code",
    "execution_count": 1,
-   "id": "af39fcfa",
+   "id": "3275c699",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-11-14T05:06:52.286766Z",
-     "iopub.status.busy": "2025-11-14T05:06:52.286168Z",
-     "iopub.status.idle": "2025-11-14T05:06:52.289912Z",
-     "shell.execute_reply": "2025-11-14T05:06:52.289382Z"
+     "iopub.execute_input": "2025-11-14T05:16:30.286290Z",
+     "iopub.status.busy": "2025-11-14T05:16:30.285997Z",
+     "iopub.status.idle": "2025-11-14T05:16:30.290247Z",
+     "shell.execute_reply": "2025-11-14T05:16:30.289568Z"
     },
     "papermill": {
-     "duration": 0.010145,
-     "end_time": "2025-11-14T05:06:52.291025",
+     "duration": 0.011008,
+     "end_time": "2025-11-14T05:16:30.291406",
      "exception": false,
-     "start_time": "2025-11-14T05:06:52.280880",
+     "start_time": "2025-11-14T05:16:30.280398",
      "status": "completed"
     },
     "tags": []
@@ -54,13 +54,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "640d4af5",
+   "id": "18f71c70",
    "metadata": {
     "papermill": {
-     "duration": 0.004283,
-     "end_time": "2025-11-14T05:06:52.299618",
+     "duration": 0.004832,
+     "end_time": "2025-11-14T05:16:30.300963",
      "exception": false,
-     "start_time": "2025-11-14T05:06:52.295335",
+     "start_time": "2025-11-14T05:16:30.296131",
      "status": "completed"
     },
     "tags": []
@@ -195,13 +195,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "95d2d1cf",
+   "id": "9671e097",
    "metadata": {
     "papermill": {
-     "duration": 0.004309,
-     "end_time": "2025-11-14T05:06:52.308133",
+     "duration": 0.004575,
+     "end_time": "2025-11-14T05:16:30.310323",
      "exception": false,
-     "start_time": "2025-11-14T05:06:52.303824",
+     "start_time": "2025-11-14T05:16:30.305748",
      "status": "completed"
     },
     "tags": []
@@ -248,13 +248,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "e3cc6b92",
+   "id": "b7816dd6",
    "metadata": {
     "papermill": {
-     "duration": 0.00421,
-     "end_time": "2025-11-14T05:06:52.316484",
+     "duration": 0.004521,
+     "end_time": "2025-11-14T05:16:30.319470",
      "exception": false,
-     "start_time": "2025-11-14T05:06:52.312274",
+     "start_time": "2025-11-14T05:16:30.314949",
      "status": "completed"
     },
     "tags": []
@@ -267,13 +267,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "8f853682",
+   "id": "8076150f",
    "metadata": {
     "papermill": {
-     "duration": 0.004235,
-     "end_time": "2025-11-14T05:06:52.324847",
+     "duration": 0.004537,
+     "end_time": "2025-11-14T05:16:30.328383",
      "exception": false,
-     "start_time": "2025-11-14T05:06:52.320612",
+     "start_time": "2025-11-14T05:16:30.323846",
      "status": "completed"
     },
     "tags": []
@@ -292,13 +292,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "5eff4ad9",
+   "id": "e240f27a",
    "metadata": {
     "papermill": {
-     "duration": 0.004167,
-     "end_time": "2025-11-14T05:06:52.333123",
+     "duration": 0.004398,
+     "end_time": "2025-11-14T05:16:30.337361",
      "exception": false,
-     "start_time": "2025-11-14T05:06:52.328956",
+     "start_time": "2025-11-14T05:16:30.332963",
      "status": "completed"
     },
     "tags": []
@@ -329,19 +329,19 @@
   {
    "cell_type": "code",
    "execution_count": 2,
-   "id": "3a2e1ef6",
+   "id": "654d2910",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-11-14T05:06:52.342331Z",
-     "iopub.status.busy": "2025-11-14T05:06:52.342159Z",
-     "iopub.status.idle": "2025-11-14T05:06:52.404023Z",
-     "shell.execute_reply": "2025-11-14T05:06:52.403377Z"
+     "iopub.execute_input": "2025-11-14T05:16:30.347700Z",
+     "iopub.status.busy": "2025-11-14T05:16:30.347437Z",
+     "iopub.status.idle": "2025-11-14T05:16:30.442778Z",
+     "shell.execute_reply": "2025-11-14T05:16:30.441825Z"
     },
     "papermill": {
-     "duration": 0.067879,
-     "end_time": "2025-11-14T05:06:52.405140",
+     "duration": 0.10213,
+     "end_time": "2025-11-14T05:16:30.444032",
      "exception": false,
-     "start_time": "2025-11-14T05:06:52.337261",
+     "start_time": "2025-11-14T05:16:30.341902",
      "status": "completed"
     },
     "tags": []
@@ -371,13 +371,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "55c50a24",
+   "id": "e05784cc",
    "metadata": {
     "papermill": {
-     "duration": 0.00416,
-     "end_time": "2025-11-14T05:06:52.413550",
+     "duration": 0.004724,
+     "end_time": "2025-11-14T05:16:30.453796",
      "exception": false,
-     "start_time": "2025-11-14T05:06:52.409390",
+     "start_time": "2025-11-14T05:16:30.449072",
      "status": "completed"
     },
     "tags": []
@@ -391,19 +391,19 @@
   {
    "cell_type": "code",
    "execution_count": 3,
-   "id": "c6efcb2c",
+   "id": "aabe852d",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-11-14T05:06:52.423345Z",
-     "iopub.status.busy": "2025-11-14T05:06:52.422965Z",
-     "iopub.status.idle": "2025-11-14T05:07:25.325403Z",
-     "shell.execute_reply": "2025-11-14T05:07:25.324724Z"
+     "iopub.execute_input": "2025-11-14T05:16:30.464807Z",
+     "iopub.status.busy": "2025-11-14T05:16:30.464088Z",
+     "iopub.status.idle": "2025-11-14T05:17:10.854374Z",
+     "shell.execute_reply": "2025-11-14T05:17:10.853287Z"
     },
     "papermill": {
-     "duration": 32.91293,
-     "end_time": "2025-11-14T05:07:25.331050",
+     "duration": 40.400816,
+     "end_time": "2025-11-14T05:17:10.859556",
      "exception": false,
-     "start_time": "2025-11-14T05:06:52.418120",
+     "start_time": "2025-11-14T05:16:30.458740",
      "status": "completed"
     },
     "tags": []
@@ -446,13 +446,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "076f1eff",
+   "id": "846be633",
    "metadata": {
     "papermill": {
-     "duration": 0.004242,
-     "end_time": "2025-11-14T05:07:25.339846",
+     "duration": 0.004894,
+     "end_time": "2025-11-14T05:17:10.869601",
      "exception": false,
-     "start_time": "2025-11-14T05:07:25.335604",
+     "start_time": "2025-11-14T05:17:10.864707",
      "status": "completed"
     },
     "tags": []
@@ -466,19 +466,19 @@
   {
    "cell_type": "code",
    "execution_count": 4,
-   "id": "a2eea40f",
+   "id": "9fece817",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-11-14T05:07:25.350874Z",
-     "iopub.status.busy": "2025-11-14T05:07:25.349317Z",
-     "iopub.status.idle": "2025-11-14T05:07:25.354141Z",
-     "shell.execute_reply": "2025-11-14T05:07:25.353628Z"
+     "iopub.execute_input": "2025-11-14T05:17:10.881922Z",
+     "iopub.status.busy": "2025-11-14T05:17:10.880792Z",
+     "iopub.status.idle": "2025-11-14T05:17:10.887735Z",
+     "shell.execute_reply": "2025-11-14T05:17:10.886861Z"
     },
     "papermill": {
-     "duration": 0.011107,
-     "end_time": "2025-11-14T05:07:25.355173",
+     "duration": 0.014441,
+     "end_time": "2025-11-14T05:17:10.889107",
      "exception": false,
-     "start_time": "2025-11-14T05:07:25.344066",
+     "start_time": "2025-11-14T05:17:10.874666",
      "status": "completed"
     },
     "tags": []
@@ -495,14 +495,14 @@
   },
   {
    "cell_type": "markdown",
-   "id": "f65987f8",
+   "id": "544cfbac",
    "metadata": {
     "id": "mUnuilqVDKyb",
     "papermill": {
-     "duration": 0.004552,
-     "end_time": "2025-11-14T05:07:25.364035",
+     "duration": 0.005069,
+     "end_time": "2025-11-14T05:17:10.899396",
      "exception": false,
-     "start_time": "2025-11-14T05:07:25.359483",
+     "start_time": "2025-11-14T05:17:10.894327",
      "status": "completed"
     },
     "tags": []
@@ -522,21 +522,21 @@
   {
    "cell_type": "code",
    "execution_count": 5,
-   "id": "925998a1",
+   "id": "6d5b5dc1",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-11-14T05:07:25.374247Z",
-     "iopub.status.busy": "2025-11-14T05:07:25.373705Z",
-     "iopub.status.idle": "2025-11-14T05:07:25.379904Z",
-     "shell.execute_reply": "2025-11-14T05:07:25.379203Z"
+     "iopub.execute_input": "2025-11-14T05:17:10.910810Z",
+     "iopub.status.busy": "2025-11-14T05:17:10.910541Z",
+     "iopub.status.idle": "2025-11-14T05:17:10.918312Z",
+     "shell.execute_reply": "2025-11-14T05:17:10.917516Z"
     },
     "id": "n-rvAmpMDKyb",
     "outputId": "253ab64e-f08f-4ad4-e27c-fba8371b6947",
     "papermill": {
-     "duration": 0.012488,
-     "end_time": "2025-11-14T05:07:25.380873",
+     "duration": 0.015199,
+     "end_time": "2025-11-14T05:17:10.919680",
      "exception": false,
-     "start_time": "2025-11-14T05:07:25.368385",
+     "start_time": "2025-11-14T05:17:10.904481",
      "status": "completed"
     },
     "tags": []
@@ -609,14 +609,14 @@
   },
   {
    "cell_type": "markdown",
-   "id": "44c3ad95",
+   "id": "f04679a2",
    "metadata": {
     "id": "ygzTDloMDKyb",
     "papermill": {
-     "duration": 0.004291,
-     "end_time": "2025-11-14T05:07:25.389437",
+     "duration": 0.005067,
+     "end_time": "2025-11-14T05:17:10.930001",
      "exception": false,
-     "start_time": "2025-11-14T05:07:25.385146",
+     "start_time": "2025-11-14T05:17:10.924934",
      "status": "completed"
     },
     "tags": []
@@ -657,21 +657,21 @@
   {
    "cell_type": "code",
    "execution_count": 6,
-   "id": "ac00381b",
+   "id": "894da272",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-11-14T05:07:25.398958Z",
-     "iopub.status.busy": "2025-11-14T05:07:25.398566Z",
-     "iopub.status.idle": "2025-11-14T05:07:25.403314Z",
-     "shell.execute_reply": "2025-11-14T05:07:25.402538Z"
+     "iopub.execute_input": "2025-11-14T05:17:10.941359Z",
+     "iopub.status.busy": "2025-11-14T05:17:10.940904Z",
+     "iopub.status.idle": "2025-11-14T05:17:10.946500Z",
+     "shell.execute_reply": "2025-11-14T05:17:10.945731Z"
     },
     "id": "hzde6lEjDKyb",
     "outputId": "12eab3fb-90f2-4f74-a1f9-fb3158f977e1",
     "papermill": {
-     "duration": 0.010608,
-     "end_time": "2025-11-14T05:07:25.404320",
+     "duration": 0.012695,
+     "end_time": "2025-11-14T05:17:10.947682",
      "exception": false,
-     "start_time": "2025-11-14T05:07:25.393712",
+     "start_time": "2025-11-14T05:17:10.934987",
      "status": "completed"
     },
     "tags": []
@@ -706,14 +706,14 @@
   },
   {
    "cell_type": "markdown",
-   "id": "a62cb687",
+   "id": "f32add8f",
    "metadata": {
     "id": "qPflU7irDKyb",
     "papermill": {
-     "duration": 0.004472,
-     "end_time": "2025-11-14T05:07:25.413342",
+     "duration": 0.005321,
+     "end_time": "2025-11-14T05:17:10.958272",
      "exception": false,
-     "start_time": "2025-11-14T05:07:25.408870",
+     "start_time": "2025-11-14T05:17:10.952951",
      "status": "completed"
     },
     "tags": []
@@ -732,21 +732,21 @@
   {
    "cell_type": "code",
    "execution_count": 7,
-   "id": "37621bc6",
+   "id": "bc5d1ac7",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-11-14T05:07:25.423243Z",
-     "iopub.status.busy": "2025-11-14T05:07:25.423050Z",
-     "iopub.status.idle": "2025-11-14T05:07:45.448990Z",
-     "shell.execute_reply": "2025-11-14T05:07:45.448168Z"
+     "iopub.execute_input": "2025-11-14T05:17:10.970289Z",
+     "iopub.status.busy": "2025-11-14T05:17:10.969992Z",
+     "iopub.status.idle": "2025-11-14T05:17:30.999461Z",
+     "shell.execute_reply": "2025-11-14T05:17:30.998633Z"
     },
     "id": "mFqGgLPoDKyb",
     "outputId": "8c873744-23fa-4bbf-9e47-49b7e2086038",
     "papermill": {
-     "duration": 20.032374,
-     "end_time": "2025-11-14T05:07:45.450150",
+     "duration": 20.037268,
+     "end_time": "2025-11-14T05:17:31.000720",
      "exception": false,
-     "start_time": "2025-11-14T05:07:25.417776",
+     "start_time": "2025-11-14T05:17:10.963452",
      "status": "completed"
     },
     "tags": []
@@ -870,14 +870,14 @@
   },
   {
    "cell_type": "markdown",
-   "id": "abf2b567",
+   "id": "86a4432f",
    "metadata": {
     "id": "Q4mWQVr_DKyc",
     "papermill": {
-     "duration": 0.004838,
-     "end_time": "2025-11-14T05:07:45.460217",
+     "duration": 0.005565,
+     "end_time": "2025-11-14T05:17:31.011783",
      "exception": false,
-     "start_time": "2025-11-14T05:07:45.455379",
+     "start_time": "2025-11-14T05:17:31.006218",
      "status": "completed"
     },
     "tags": []
@@ -891,21 +891,21 @@
   {
    "cell_type": "code",
    "execution_count": 8,
-   "id": "c7ddd229",
+   "id": "f8d6d028",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-11-14T05:07:45.470779Z",
-     "iopub.status.busy": "2025-11-14T05:07:45.470538Z",
-     "iopub.status.idle": "2025-11-14T05:07:45.478452Z",
-     "shell.execute_reply": "2025-11-14T05:07:45.477681Z"
+     "iopub.execute_input": "2025-11-14T05:17:31.024306Z",
+     "iopub.status.busy": "2025-11-14T05:17:31.023606Z",
+     "iopub.status.idle": "2025-11-14T05:17:31.033616Z",
+     "shell.execute_reply": "2025-11-14T05:17:31.032634Z"
     },
     "id": "gNK_6erXDKyc",
     "outputId": "e2a56673-963b-4737-cddd-752fe4ee2cd0",
     "papermill": {
-     "duration": 0.014454,
-     "end_time": "2025-11-14T05:07:45.479511",
+     "duration": 0.017385,
+     "end_time": "2025-11-14T05:17:31.034905",
      "exception": false,
-     "start_time": "2025-11-14T05:07:45.465057",
+     "start_time": "2025-11-14T05:17:31.017520",
      "status": "completed"
     },
     "tags": []
@@ -987,13 +987,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "cf9dfd2b",
+   "id": "3969bf30",
    "metadata": {
     "papermill": {
-     "duration": 0.004784,
-     "end_time": "2025-11-14T05:07:45.489123",
+     "duration": 0.005488,
+     "end_time": "2025-11-14T05:17:31.046254",
      "exception": false,
-     "start_time": "2025-11-14T05:07:45.484339",
+     "start_time": "2025-11-14T05:17:31.040766",
      "status": "completed"
     },
     "tags": []
@@ -1023,21 +1023,21 @@
   {
    "cell_type": "code",
    "execution_count": 9,
-   "id": "e4321b27",
+   "id": "ccea8414",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-11-14T05:07:45.500125Z",
-     "iopub.status.busy": "2025-11-14T05:07:45.499551Z",
-     "iopub.status.idle": "2025-11-14T05:07:45.504091Z",
-     "shell.execute_reply": "2025-11-14T05:07:45.503389Z"
+     "iopub.execute_input": "2025-11-14T05:17:31.058737Z",
+     "iopub.status.busy": "2025-11-14T05:17:31.057870Z",
+     "iopub.status.idle": "2025-11-14T05:17:31.065329Z",
+     "shell.execute_reply": "2025-11-14T05:17:31.064250Z"
     },
     "id": "wv9N8nUbDKyc",
     "outputId": "4ead12b6-eb55-444a-e9c8-e3128073116c",
     "papermill": {
-     "duration": 0.011307,
-     "end_time": "2025-11-14T05:07:45.505198",
+     "duration": 0.015488,
+     "end_time": "2025-11-14T05:17:31.067142",
      "exception": false,
-     "start_time": "2025-11-14T05:07:45.493891",
+     "start_time": "2025-11-14T05:17:31.051654",
      "status": "completed"
     },
     "tags": []
@@ -1073,21 +1073,21 @@
   {
    "cell_type": "code",
    "execution_count": 10,
-   "id": "9d7fbbc0",
+   "id": "02a34b91",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-11-14T05:07:45.515749Z",
-     "iopub.status.busy": "2025-11-14T05:07:45.515316Z",
-     "iopub.status.idle": "2025-11-14T05:07:45.519866Z",
-     "shell.execute_reply": "2025-11-14T05:07:45.519091Z"
+     "iopub.execute_input": "2025-11-14T05:17:31.081465Z",
+     "iopub.status.busy": "2025-11-14T05:17:31.080948Z",
+     "iopub.status.idle": "2025-11-14T05:17:31.086403Z",
+     "shell.execute_reply": "2025-11-14T05:17:31.085730Z"
     },
     "id": "tuBntqFXDKyc",
     "outputId": "3ca30396-e34a-4865-81a4-f038099d5529",
     "papermill": {
-     "duration": 0.010869,
-     "end_time": "2025-11-14T05:07:45.520881",
+     "duration": 0.013293,
+     "end_time": "2025-11-14T05:17:31.087605",
      "exception": false,
-     "start_time": "2025-11-14T05:07:45.510012",
+     "start_time": "2025-11-14T05:17:31.074312",
      "status": "completed"
     },
     "tags": []
@@ -1132,14 +1132,14 @@
   },
   {
    "cell_type": "markdown",
-   "id": "a0f95011",
+   "id": "07e915dd",
    "metadata": {
     "id": "mZFuWWWNDKyc",
     "papermill": {
-     "duration": 0.004829,
-     "end_time": "2025-11-14T05:07:45.530556",
+     "duration": 0.005535,
+     "end_time": "2025-11-14T05:17:31.098751",
      "exception": false,
-     "start_time": "2025-11-14T05:07:45.525727",
+     "start_time": "2025-11-14T05:17:31.093216",
      "status": "completed"
     },
     "tags": []
@@ -1164,21 +1164,21 @@
   {
    "cell_type": "code",
    "execution_count": 11,
-   "id": "8b9bb8be",
+   "id": "820f1557",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-11-14T05:07:45.541222Z",
-     "iopub.status.busy": "2025-11-14T05:07:45.541053Z",
-     "iopub.status.idle": "2025-11-14T05:07:48.104914Z",
-     "shell.execute_reply": "2025-11-14T05:07:48.104175Z"
+     "iopub.execute_input": "2025-11-14T05:17:31.110458Z",
+     "iopub.status.busy": "2025-11-14T05:17:31.109971Z",
+     "iopub.status.idle": "2025-11-14T05:17:33.051550Z",
+     "shell.execute_reply": "2025-11-14T05:17:33.050734Z"
     },
     "id": "MdZwVQJXDKyc",
     "outputId": "91e196b2-2002-4584-d368-dbebd03122e4",
     "papermill": {
-     "duration": 2.570741,
-     "end_time": "2025-11-14T05:07:48.106148",
+     "duration": 1.948781,
+     "end_time": "2025-11-14T05:17:33.052811",
      "exception": false,
-     "start_time": "2025-11-14T05:07:45.535407",
+     "start_time": "2025-11-14T05:17:31.104030",
      "status": "completed"
     },
     "tags": []
@@ -1211,8 +1211,7 @@
      "name": "stdout",
      "output_type": "stream",
      "text": [
-      "The iPhone 15 Pro is currently available in low stock, with only 8 units remaining. It is priced at $999 and features a 128GB storage capacity with a titanium finish. \n",
-      "\n",
+      "The iPhone 15 Pro is available for $999. We have a low stock of 8 units remaining. It features a 128GB storage capacity and a titanium finish.\n",
       "------------------------------------------------------------\n"
      ]
     }
@@ -1281,14 +1280,14 @@
   },
   {
    "cell_type": "markdown",
-   "id": "8871b6e1",
+   "id": "7f160f2a",
    "metadata": {
     "id": "ZLOySAdtDKyc",
     "papermill": {
-     "duration": 0.005142,
-     "end_time": "2025-11-14T05:07:48.118060",
+     "duration": 0.006103,
+     "end_time": "2025-11-14T05:17:33.065099",
      "exception": false,
-     "start_time": "2025-11-14T05:07:48.112918",
+     "start_time": "2025-11-14T05:17:33.058996",
      "status": "completed"
     },
     "tags": []
@@ -1302,21 +1301,21 @@
   {
    "cell_type": "code",
    "execution_count": 12,
-   "id": "a7a846ab",
+   "id": "c11533bf",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-11-14T05:07:48.129951Z",
-     "iopub.status.busy": "2025-11-14T05:07:48.129323Z",
-     "iopub.status.idle": "2025-11-14T05:07:49.989707Z",
-     "shell.execute_reply": "2025-11-14T05:07:49.988837Z"
+     "iopub.execute_input": "2025-11-14T05:17:33.078708Z",
+     "iopub.status.busy": "2025-11-14T05:17:33.078003Z",
+     "iopub.status.idle": "2025-11-14T05:17:34.776133Z",
+     "shell.execute_reply": "2025-11-14T05:17:34.775048Z"
     },
     "id": "NtIYvTLFDKyc",
     "outputId": "c8da3f30-5626-48ae-9bda-c975e2e0a110",
     "papermill": {
-     "duration": 1.867721,
-     "end_time": "2025-11-14T05:07:49.990989",
+     "duration": 1.706316,
+     "end_time": "2025-11-14T05:17:34.777577",
      "exception": false,
-     "start_time": "2025-11-14T05:07:48.123268",
+     "start_time": "2025-11-14T05:17:33.071261",
      "status": "completed"
     },
     "tags": []
@@ -1352,7 +1351,7 @@
      "name": "stdout",
      "output_type": "stream",
      "text": [
-      "Certainly! Here's a comparison of the Dell XPS 15 and the MacBook Pro 14:\n",
+      "Here's a comparison of the Dell XPS 15 and the MacBook Pro 14:\n",
       "\n",
       "**Dell XPS 15:**\n",
       "*   **Price:** $1,299\n",
@@ -1363,6 +1362,8 @@
       "*   **Price:** $1,999\n",
       "*   **Availability:** In Stock (22 units)\n",
       "*   **Specifications:** M3 Pro chip, 18GB RAM, 512GB SSD\n",
+      "\n",
+      "Both laptops are currently in stock, but the Dell XPS 15 is more affordably priced. The MacBook Pro 14\" offers a more powerful M3 Pro chip and slightly more RAM.\n",
       "\n",
       "Let me know if you'd like more details on either of these models!\n",
       "------------------------------------------------------------\n"
@@ -1379,21 +1380,21 @@
   {
    "cell_type": "code",
    "execution_count": 13,
-   "id": "5448277a",
+   "id": "67a85947",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-11-14T05:07:50.002936Z",
-     "iopub.status.busy": "2025-11-14T05:07:50.002715Z",
-     "iopub.status.idle": "2025-11-14T05:07:51.547303Z",
-     "shell.execute_reply": "2025-11-14T05:07:51.546448Z"
+     "iopub.execute_input": "2025-11-14T05:17:34.790633Z",
+     "iopub.status.busy": "2025-11-14T05:17:34.790404Z",
+     "iopub.status.idle": "2025-11-14T05:17:36.136559Z",
+     "shell.execute_reply": "2025-11-14T05:17:36.135574Z"
     },
     "id": "ssynCwqjDKyc",
     "outputId": "fcdf98d8-5bfd-4e3a-a553-3660cedc3780",
     "papermill": {
-     "duration": 1.551863,
-     "end_time": "2025-11-14T05:07:51.548475",
+     "duration": 1.354137,
+     "end_time": "2025-11-14T05:17:36.137840",
      "exception": false,
-     "start_time": "2025-11-14T05:07:49.996612",
+     "start_time": "2025-11-14T05:17:34.783703",
      "status": "completed"
     },
     "tags": []
@@ -1429,7 +1430,7 @@
      "name": "stdout",
      "output_type": "stream",
      "text": [
-      "Yes, we do have the Sony WH-1000XM5 headphones. They are currently priced at $399 and are in stock, with 67 units available. They feature noise-canceling technology and a 30-hour battery life.\n",
+      "The Sony WH-1000XM5 headphones are available for $399 and are currently in stock with 67 units. They feature noise-canceling technology and a 30-hour battery life.\n",
       "------------------------------------------------------------\n"
      ]
     }
@@ -1443,13 +1444,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "9a59e00a",
+   "id": "ad866130",
    "metadata": {
     "papermill": {
-     "duration": 0.005444,
-     "end_time": "2025-11-14T05:07:51.559863",
+     "duration": 0.006379,
+     "end_time": "2025-11-14T05:17:36.150511",
      "exception": false,
-     "start_time": "2025-11-14T05:07:51.554419",
+     "start_time": "2025-11-14T05:17:36.144132",
      "status": "completed"
     },
     "tags": []
@@ -1506,14 +1507,14 @@
   },
   {
    "cell_type": "markdown",
-   "id": "f2aa4212",
+   "id": "d781eaa6",
    "metadata": {
     "id": "Gjs0ZY1YDKyc",
     "papermill": {
-     "duration": 0.005371,
-     "end_time": "2025-11-14T05:07:51.570612",
+     "duration": 0.005628,
+     "end_time": "2025-11-14T05:17:36.161653",
      "exception": false,
-     "start_time": "2025-11-14T05:07:51.565241",
+     "start_time": "2025-11-14T05:17:36.156025",
      "status": "completed"
     },
     "tags": []
@@ -1567,13 +1568,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "32e3b690",
+   "id": "4e70e241",
    "metadata": {
     "papermill": {
-     "duration": 0.005371,
-     "end_time": "2025-11-14T05:07:51.581328",
+     "duration": 0.005986,
+     "end_time": "2025-11-14T05:17:36.173172",
      "exception": false,
-     "start_time": "2025-11-14T05:07:51.575957",
+     "start_time": "2025-11-14T05:17:36.167186",
      "status": "completed"
     },
     "tags": []
@@ -1595,13 +1596,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "2bb51dc0",
+   "id": "13d4e878",
    "metadata": {
     "papermill": {
-     "duration": 0.005303,
-     "end_time": "2025-11-14T05:07:51.592225",
+     "duration": 0.005729,
+     "end_time": "2025-11-14T05:17:36.184715",
      "exception": false,
-     "start_time": "2025-11-14T05:07:51.586922",
+     "start_time": "2025-11-14T05:17:36.178986",
      "status": "completed"
     },
     "tags": []
@@ -1639,13 +1640,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "c14af86b",
+   "id": "073f83aa",
    "metadata": {
     "papermill": {
-     "duration": 0.00539,
-     "end_time": "2025-11-14T05:07:51.602943",
+     "duration": 0.005674,
+     "end_time": "2025-11-14T05:17:36.196109",
      "exception": false,
-     "start_time": "2025-11-14T05:07:51.597553",
+     "start_time": "2025-11-14T05:17:36.190435",
      "status": "completed"
     },
     "tags": []
@@ -1690,14 +1691,14 @@
   },
   "papermill": {
    "default_parameters": {},
-   "duration": 65.382335,
-   "end_time": "2025-11-14T05:07:54.226054",
+   "duration": 72.845686,
+   "end_time": "2025-11-14T05:17:38.820657",
    "environment_variables": {},
    "exception": null,
    "input_path": "__notebook__.ipynb",
    "output_path": "__notebook__.ipynb",
    "parameters": {},
-   "start_time": "2025-11-14T05:06:48.843719",
+   "start_time": "2025-11-14T05:16:25.974971",
    "version": "2.6.0"
   }
  },
